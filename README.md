@@ -27,13 +27,16 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
-![Angular Logo](images/angular.png)
-![Node.js Logo](images/nodejs.png)
-![MongoDB Logo](images/mongodb.png)
-![JavaScript Logo](images/javascript.png)
-![HTML Logo](images/html.png)
-![Git Logo](images/git.png)
-![Python Logo](images/python.png)
+<img src="images/angular.png" width="75" height="75"><img src="images/nodejs.png" width="75" height="75">
+<img src="images/mongodb.png" width="75" height="75">
+<img src="images/python.png" width="75" height="75">
+<img src="images/javascript.png" width="75" height="75">
+<img src="images/html.png" width="75" height="75">
+<img src="images/css.png" width="75" height="75">
+<img src="images/git.png" width="75" height="75">
+<img src="images/laravel.png" width="75" height="75">
+<img src="images/android.png" width="75" height="75">
+
 
 ### Research Papers
 
