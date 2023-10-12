@@ -27,7 +27,7 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
-<img src="images/angular.png" width="50" height="50"><img src="images/nodejs.png" width="100" height="100">
+<img src="images/angular.png" width="75" height="75"><img src="images/nodejs.png" width="100" height="100">
 <img src="images/mongodb.png" width="100" height="100">
 <img src="images/python.png" width="100" height="100">
 <img src="images/javascript.png" width="100" height="100">
