@@ -21,10 +21,10 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 
 ### Table of Contents
 
-- Projects
-- Technologies Used
-- Research Papers
-- Contact
+- [Projects](https://github.com/ikramelhattab/Ikramelhattab/blob/main/README.md#projects)
+- [Technologies Used]
+- [Research Papers]
+- [Contact]
  _____________________________________________________________________________________________________________
 
 ### Projects
