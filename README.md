@@ -34,6 +34,9 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 <img src="images/html.png" width="75" height="75">
 <img src="images/css.png" width="75" height="75">
 <img src="images/git.png" width="75" height="75">
+<img src="images/laravel.png" width="75" height="75">
+<img src="images/android.png" width="75" height="75">
+
 
 ### Research Papers
 
