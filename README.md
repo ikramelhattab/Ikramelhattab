@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-### Portfolio - Ikram Hattab --  Web and AI Engineer 💻👩🏼‍💻 || Women Techmakers Ambassadors || GDG Sousse Organizer || AI Trainer 🧠
-
+### Portfolio - Ikram Hattab
 Welcome to my portfolio! This repository contains a collection of my projects, work samples, and research papers.
 
  _____________________________________________________________________________________________________________
