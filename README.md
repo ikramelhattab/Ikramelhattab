@@ -27,7 +27,13 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Angular Logo](images/angular.png)
+![Node.js Logo](images/nodejs.png)
+![MongoDB Logo](images/mongodb.png)
+![JavaScript Logo](images/javascript.png)
+![HTML Logo](images/html.png)
+![Git Logo](images/git.png)
+![Python Logo](images/python.png)
 
 ### Research Papers
 
