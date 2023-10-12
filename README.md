@@ -17,14 +17,18 @@ Here are some ideas to get you started:
 
 Welcome to my portfolio! This repository contains a collection of my projects, work samples, and research papers.
 
+ _____________________________________________________________________________________________________________
+
 ### Table of Contents
 
 - Projects
 - Technologies Used
 - Research Papers
 - Contact
+ _____________________________________________________________________________________________________________
 
 ### Projects
+ _____________________________________________________________________________________________________________
 
 ### Technologies Used
 <img src="images/angular.png" width="75" height="75"><img src="images/nodejs.png" width="75" height="75">
@@ -37,10 +41,12 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 <img src="images/laravel.png" width="75" height="75">
 <img src="images/android.png" width="75" height="75">
 
+ _____________________________________________________________________________________________________________
 
 ### Research Papers
 
 📜 Bispectral Pedestrian Detection Augmented with Saliency Maps Using Transformer
+ _____________________________________________________________________________________________________________
 
 ### Contacts
 
