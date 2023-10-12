@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-### Portfolio - Ikram Hattab
+### Portfolio - Ikram Hattab --  Web and AI Engineer 💻👩🏼‍💻 || Women Techmakers Ambassadors || GDG Sousse Organizer || AI Trainer 🧠
 
 Welcome to my portfolio! This repository contains a collection of my projects, work samples, and research papers.
 
@@ -41,4 +41,12 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Research Papers
 
 📜 Bispectral Pedestrian Detection Augmented with Saliency Maps Using Transformer
+
+### Contacts
+
+- Linkedin: linkedin.com/in/ikram-hattab-166b41154
+- Website: ikramhattab.vercel.app/ 
+- Email: ikramelhattab90@gmail.com
+
+
 
