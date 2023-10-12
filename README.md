@@ -27,7 +27,7 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
-![Angular Logo](images/angular.png)
+![Angular Logo](images/angular.png) <img src="images/angular.png" width="100" height="100">
 ![Node.js Logo](images/nodejs.png)
 ![MongoDB Logo](images/mongodb.png)
 ![JavaScript Logo](images/javascript.png)
