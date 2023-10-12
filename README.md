@@ -22,7 +22,7 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Table of Contents
 
 - [Projects](https://github.com/ikramelhattab/Ikramelhattab/blob/main/README.md#projects)
-- [Technologies Used]
+- [Technologies Used](https://github.com/ikramelhattab/Ikramelhattab/blob/main/README.md#technologies-used)
 - [Research Papers]
 - [Contact]
  _____________________________________________________________________________________________________________
