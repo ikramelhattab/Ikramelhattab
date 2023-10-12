@@ -53,6 +53,7 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 - Linkedin: linkedin.com/in/ikram-hattab-166b41154
 - Website: ikramhattab.vercel.app/ 
 - Email: ikramelhattab90@gmail.com
+- [link to my GitHub profile](https://github.com/ikramelhattab)
 
 
 
