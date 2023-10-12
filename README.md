@@ -45,15 +45,12 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 
 ### Research Papers
 
-📜 Bispectral Pedestrian Detection Augmented with Saliency Maps Using Transformer
+📜 [Bispectral Pedestrian Detection Augmented with Saliency Maps Using Transformer](https://aminemarnissi.github.io/projects/visapp.html)
  _____________________________________________________________________________________________________________
 
 ### Contacts
 
-- Linkedin: linkedin.com/in/ikram-hattab-166b41154
-- Website: ikramhattab.vercel.app/ 
+- [Linkedin] (linkedin.com/in/ikram-hattab-166b41154)
+- [Website] (ikramhattab.vercel.app/)
+- [GitHub](https://github.com/ikramelhattab)
 - Email: ikramelhattab90@gmail.com
-- [link to my GitHub profile](https://github.com/ikramelhattab)
-
-
-
