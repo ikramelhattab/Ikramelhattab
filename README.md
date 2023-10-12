@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ikramelhattab/Ikramelhattab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+### Portfolio - Ikram Hattab
+
+Welcome to my portfolio! This repository contains a collection of my projects, work samples, and research papers.
+
+### Table of Contents
+
+- Projects
+- Technologies Used
+- Research Papers
+- Contact
+
+### Projects
+
+### Technologies Used
+
+### Research Papers
+
+📜 Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer
+
