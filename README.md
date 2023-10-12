@@ -27,6 +27,8 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
+<img src="https://github.com/mahozad/mahozad/blob/master/logo.svg" width="128"/>
+
 
 ### Research Papers
 
