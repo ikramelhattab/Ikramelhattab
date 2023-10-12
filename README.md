@@ -50,7 +50,7 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 
 ### Contacts
 
-- [Linkedin] (linkedin.com/in/ikram-hattab-166b41154)
-- [Website] (ikramhattab.vercel.app/)
+- [Linkedin] (https://www.linkedin.com/in/ikram-hattab-166b41154/)
+- [Website] (https://ikramhattab.vercel.app/)
 - [GitHub](https://github.com/ikramelhattab)
 - Email: ikramelhattab90@gmail.com
