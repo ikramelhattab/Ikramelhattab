@@ -27,10 +27,9 @@ Welcome to my portfolio! This repository contains a collection of my projects, w
 ### Projects
 
 ### Technologies Used
-<img src="[https://github.com/mahozad/mahozad/blob/master/logo.svg](https://skills.thijs.gg/)" width="128"/>
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Research Papers
 
-📜 Bispectral Pedestrian Detection Augmented with Saliency Maps using Transformer
+📜 Bispectral Pedestrian Detection Augmented with Saliency Maps Using Transformer
 
