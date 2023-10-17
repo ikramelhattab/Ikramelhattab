@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 ### Portfolio - Ikram Hattab
+Ikram Hattab is an AI and Web Engineer who currently works as a freelancer. Before that, she worked as a EPI - International Multidisciplinary School teacher and as an AI and Web Engineer at SMART LOGGER. Additionally, she serves as an Ambassador at Women Techmakers and co-organizer at the Google Developer Group. Ikram is highly skilled in numerous programming languages, technologies, and frameworks, including  Angular, Nodejs, Python, HTML, CSS, MongoDB, SQL, and Git. She also possesses expertise in utilizing AI tools and libraries such as TensorFlow, PyTorch, YOLO, and OpenCV.
+
+Furthermore, besides her technical prowess, Ikram excels as a strong communicator. She can adeptly convey complex technical concepts clearly and concisely, catering to both technical and non-technical audiences. Her willingness to go the extra mile to assist her colleagues makes her a valuable asset to any team.
+
 Welcome to my portfolio! This repository contains a collection of my projects, work samples, and research papers.
 
  _____________________________________________________________________________________________________________
